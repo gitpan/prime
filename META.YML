@@ -1,0 +1,8 @@
+--- #YAML:1.0
+module_name: Prime
+dist_version_from: script/prime.pl
+installdirs: site
+requires:
+distribution_type: script
+license: perl
+dist_abstract: Prime iterator
